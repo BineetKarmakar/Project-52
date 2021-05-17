@@ -1,0 +1,38 @@
+.img {
+    height: 330px;
+    width: 330px;
+}
+
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#myCarousel img {
+    height: 700px;
+    width: 500px;
+}
+
+.links {
+    float: left;
+    color: chocolate;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: #00f0fc;
+}
+
+UL {
+    list-style: none;
+}
+
+#gif {
+    width: 1000px;
+    height: 500px;
+}
